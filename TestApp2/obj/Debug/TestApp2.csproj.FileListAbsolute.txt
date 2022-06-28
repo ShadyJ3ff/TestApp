@@ -1,0 +1,14 @@
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\bin\Debug\TestApp2.exe.config
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\bin\Debug\TestApp2.exe
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\bin\Debug\TestApp2.pdb
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\bin\Debug\Logger.dll
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\bin\Debug\Logger.pdb
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\obj\Debug\TestApp2.csproj.AssemblyReference.cache
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\obj\Debug\TestApp2.Form1.resources
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\obj\Debug\TestApp2.Properties.Resources.resources
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\obj\Debug\TestApp2.csproj.GenerateResource.cache
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\obj\Debug\TestApp2.csproj.CoreCompileInputs.cache
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\obj\Debug\TestApp2.csproj.CopyComplete
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\obj\Debug\TestApp2.exe
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\obj\Debug\TestApp2.pdb
+C:\Users\yaros_yxwilcs\Desktop\Тестовое задание\TestApp2\TestApp2\bin\Debug\Logger.dll.config
